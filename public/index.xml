@@ -13,7 +13,7 @@
       <link>http://localhost:1313/myportfolio-demo/docs/test/</link>
       <pubDate>Fri, 29 Mar 2024 11:02:39 +0300</pubDate>
       <guid>http://localhost:1313/myportfolio-demo/docs/test/</guid>
-      <description>This is a test page This is a test page&#xA;Second Line Added</description>
+      <description>This is a test page This is a test page&#xA;Second Line Added&#xA;This is the third</description>
     </item>
   </channel>
 </rss>
