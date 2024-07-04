@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+
+            
+                
+            
+
+            
+                <link href="http://localhost:1313/myportfolio-demo/docs/" rel="self" type="text/html"/>
+            
+        
+            
+
+            
+
+            
+                <link href="http://localhost:1313/myportfolio-demo/docs/rss.xml" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>2024-03-29 11:02:39 +0300 +03</lastBuildDate>
+        
+
+        <link>http://localhost:1313/myportfolio-demo/docs/</link>
+
+        
+
+        <title>Docs · My New Hugo Site</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<h2 id="this-is-a-test-page">This is a test page</h2>
+<p>This is a test page</p>
+<p>Second Line Added</p>
+<p>This is the third</p>
+]]></description>
+                
+
+                <guid isPermaLink="false">tag:localhost:1313,2024-03-29:/myportfolio-demo/docs/test/</guid>
+
+                
+                    <link>http://localhost:1313/myportfolio-demo/docs/test/</link>
+                
+
+                
+                    <pubDate>Fri, 29 Mar 2024 11:02:39 +03</pubDate>
+                
+
+                
+                    <title>Test</title>
+                
+            </item>
+        
+    </channel>
+</rss>
